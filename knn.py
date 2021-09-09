@@ -75,7 +75,7 @@ def knn(new_x, new_y, k):
             maximum = count[fleur['species']]
     return espece_max, maximum
 
-
+#test
 
 def main(new_x, new_y, k):
     print("\nAlgorithme des", k, "plus proches voisins.\n")
